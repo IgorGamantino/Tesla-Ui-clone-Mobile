@@ -18,8 +18,10 @@ const styles = StyleSheet.create({
     textDecorationLine: 'underline',
   },
   subtitle: {
+    textAlign: 'justify',
     fontSize: 16,
-    color: '#5c5e62'
+    color: '#5c5e62',
+    
   },
 
   image: {
